@@ -1,0 +1,23 @@
+{
+  "name": "ajax-autocomplete",
+  "description": "jquery plugin for ajax based auto-complete",
+  "main": "index.js",
+  "authors": [
+    "Gajendra"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "js"
+  ],
+  "homepage": "https://github.com/codecracker2014/ajax-autocomplete",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
