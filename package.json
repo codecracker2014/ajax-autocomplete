@@ -1,0 +1,28 @@
+{
+  "name": "ajax-autocomplete",
+  "version": "1.0.0",
+  "description": "jquery plugin for ajax based auto-complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codecracker2014/ajax-autocomplete.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Gajendra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codecracker2014/ajax-autocomplete/issues"
+  },
+  "homepage": "https://github.com/codecracker2014/ajax-autocomplete#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.1.0",
+    "gulp-concat-css": "^2.3.0"
+  }
+}
