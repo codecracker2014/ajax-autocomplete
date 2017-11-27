@@ -8,7 +8,7 @@ module.exports = function(grunt) {
             banner: '/*! <%= pkg.name %> <%= grunt.template.today("yyyy-mm-dd") %> */\n'
           },
           build: {
-            src:  'src/ajax-autocomplete/js/*.js',
+            src:  ['src/ajax-autocomplete/js/*.js','src/ajax-autocomplete/js/core/*.js','src/ajax-autocomplete/js/ajax/*.js'],
             dest: 'build/js/<%= pkg.name %>.min.js'
           }
         },
